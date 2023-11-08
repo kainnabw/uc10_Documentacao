@@ -11,6 +11,8 @@
 
 **conhecimentos :**
 
+[Comandos usados no git](Comandosgit.md)
+
 
 
 
