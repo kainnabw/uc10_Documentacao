@@ -2,30 +2,44 @@
 
 Este guia fornece uma visão geral dos comandos básicos do Git para gerenciamento de versionamento de código.
 
+---
+
 ## Configuração Inicial
+**é recomendado verificar e fazer essa configuração todo dia antes de realmente começar a uitlizar o git**
 
-### Configurar o Nome de Usuário
-**Define o nome de usuário a ser associado aos commits feitos no repositório.**
-- git config --global user.name "Seu Nome"
+` git config --global --list` (utilizado para verificar o nome e email)
 
-**Configurar o Email**
-- git config --global user.email "seuemail@example.com"
+`git config user.name` (utilizado para modificar o nome)
 
-**para verificar ambos**
-- git config --global --list
-- git config user.name
-- git config user.email
+`git config user.emai` (utilizado para modificar o email)
 
+---
 
+## Iniciar um Repositório
+> Esse comando é utilizado para inicializar um repositorio
 
-**Iniciar um Repositório**
-- git init
+`git init`
 
-**Adicionar Arquivos ao Stage**
-- git add nome_do_arquivo
+git init cria um novo repositório do Git. Ele pode ser usado para converter um projeto existente e não versionado em um repositório do Git ou inicializar um novo repositório vazio.
 
-**Confirmar Alterações**
-- git commit -m "Mensagem do Commit"
+---
+
+## Adicionar Arquivos ao Stage
+> O git add é usado para adicionar arquivos novos e modificados mas não os deletados.
+
+`git add nome_do_arquivo`
+
+Esse comando realiza a inclusão ou modificação do arquivo no diretório local, preparando ele para ser entregue ao servidor remoto
+  
+--- 
+
+## Confirmar Alterações
+> esse comando é utilizado para confirmar alterações 
+
+`git commit -m "Mensagem do Commit"`
+
+O Git commit permite que você crie um commit, ou seja, você consegue guardar o estado do seu repositório naquele momento.
+Você consegue incluir uma mensagem no seu commit.
 
 **Verificar o Status**
 - git status
