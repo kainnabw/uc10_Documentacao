@@ -63,11 +63,29 @@ esse comando envia arquivos para a branch, após o uso desse comando os arquivos
 
 ---
 
-**Verificar o Status
-- git status
+## Verificar o Status
+> esse comando é utilizado para visualizar as condições do diretório de trabalho e da área de staging
 
-**Criar uma Nova Branch**
-- git branch nome_da_branch
+`git status`
+
+Ele permite que você veja quais alterações foram despreparadas, quais não foram e quais arquivos não estão sendo monitorados pelo Git.
+
+
+---
+
+## Criar uma Nova Branch
+> esse comando é utilizado para criar uma nova branch
+
+`git branch nome_da_branch`
+
+Uma branch cria uma ramificação do código principal para que seja possível fazer alterações sem nenhum tipo de problema.
+
+**imagem de uma branch :**
+
+![image](https://github.com/kainnabw/uc10_Documentacao/assets/135454271/557bc13a-614e-4d74-8c13-cfef5f9ebcb5)
+
+---
+
 
 **Mudar para uma Branch Existente**
 - git checkout nome_da_branch
