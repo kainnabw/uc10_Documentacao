@@ -1,6 +1,22 @@
 # código e explicação :
 
 
+## Codigo médias 
+```
+nota1 = float (input("Digite o valor da primeira nota"))
+nota2 = float (input("Digite o valor da segunda nota"))
+nota3 = float (input("Digite o valor da terceira nota"))
+nota4 = float (input("Digite o valor da quarta nota"))
+
+media = int(nota1+nota2+nota3+nota4)/4
+
+print(f"o aluno : {nome} sua media foi de :{media}")
+```
+
+>Este código esta calculando médias de notas em python
+
+
+
 ## Codigo :
 
 ```
