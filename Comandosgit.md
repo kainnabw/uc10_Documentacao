@@ -87,11 +87,25 @@ Uma branch cria uma ramificação do código principal para que seja possível f
 ---
 
 
-**Mudar para uma Branch Existente**
-- git checkout nome_da_branch
+## Mudar para uma Branch Existente
+> Esse comando é utilizado para mudar de branch
+
+`git checkout nome_da_branch`
+
+como visto no tópico acima, podem existir mais de uma branch além da branch main, então esse comando é utilizado para alternar de uma branch a outra
+
+---
 
 **Atualizar o Repositório Local com Alterações do Repositório Remoto**
-- git pull
 
-**Ignorar Arquivos**
-- Crie um arquivo .gitignore e liste os arquivos/diretórios a serem ignorados.
+> esse comando é utilizado para atualizar o repositorio local com alterações no repositório remoto
+
+`git pull`
+
+---
+
+## Ignorar Arquivos
+
+`Crie um arquivo .gitignore e liste os arquivos/diretórios a serem ignorados.`
+
+---
