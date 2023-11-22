@@ -41,7 +41,29 @@ Esse comando realiza a inclusão ou modificação do arquivo no diretório local
 O Git commit permite que você crie um commit, ou seja, você consegue guardar o estado do seu repositório naquele momento.
 Você consegue incluir uma mensagem no seu commit.
 
-**Verificar o Status**
+---
+
+## git remote add 
+>define o link do repositorio onde vai ser enviado os arquivos
+
+`git remote add + link do seu repositório`
+
+**exemplo de comando :**
+
+`git remote add https://github.com/kainnabw/uc10_documento`
+
+---
+
+## enviar arquivos para branch 
+> esse comando envia arquivos para uma branch
+
+`git push -u origin main`
+
+esse comando envia arquivos para a branch, após o uso desse comando os arquivos aparecem no git hub
+
+---
+
+**Verificar o Status
 - git status
 
 **Criar uma Nova Branch**
