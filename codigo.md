@@ -15,6 +15,7 @@ print(f"o aluno : {nome} sua media foi de :{media}")
 
 >Este código esta calculando médias de notas em python
 
+este código possui ligação direta com o código abaixo
 
 
 ## Codigo :
