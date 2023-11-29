@@ -1,10 +1,14 @@
 # Licenças 
 
-## Tipos de Licenças 
 
 
 
-### MIT License
+## MIT License
+
+![image](https://github.com/kainnabw/uc10_Documentacao/assets/135454271/998f0d87-491e-4c41-a5fc-ed49a50e9831)
+
+
+
 
 - A Licença MIT é uma licença de software permissiva, curta e direta, que permite quase qualquer uso, modificação e redistribuição do software, desde que a notificação de direitos autorais e a licença original sejam incluídas. Sua simplicidade, permissividade e compatibilidade com outras licenças a tornam popular entre os desenvolvedores de código aberto.
 
@@ -15,7 +19,11 @@
 
 
 
-### GNU General Public License (GPL)
+## GNU General Public License (GPL)
+
+
+![image](https://github.com/kainnabw/uc10_Documentacao/assets/135454271/19eba036-fec0-430d-8267-eba1f22abd5b)
+
 
 - A Licença Pública Geral GNU (GPL) é uma licença de software livre que enfatiza a liberdade do usuário. Ela usa o conceito de copyleft para garantir que qualquer software derivado seja distribuído com a mesma licença, mantendo-o aberto e livre. A GPL é mais restritiva em relação à compatibilidade com outras licenças e requer que o código-fonte seja disponibilizado junto com o software. Essa abordagem é diferente da Licença MIT, pois coloca mais exigências na distribuição e nas liberdades do software.Sendo uma licença copyleft, trabalhos derivados de um produto originalmente licenciado pela GPL só podem ser distribuídos se utilizarem a mesma licença. Isso é diferente das licenças permissivas como a licença BSD e a licença MIT, que possuem exigências mais simples.
 
@@ -23,9 +31,13 @@
 
   
 
- **Existem três versões da licença GPL:**
+>[!IMPORTANT]
+>Existem três versões da licença GPL:
+
+
   
   - GPLv2 : A segunda versão da GPL, que apresenta algumas restrições de compatibilidade com outras licenças.
+
   - GPLv3 : A versão mais recente da GPL, que aborda algumas das restrições de compatibilidade da GPLv2 e fornece maior proteção contra patentes de software.
 
 ---
@@ -34,7 +46,11 @@
 
 
 
-### GNU Lesser General Public License (LGPL) :
+## GNU Lesser General Public License (LGPL) :
+
+![image](https://github.com/kainnabw/uc10_Documentacao/assets/135454271/97cf181e-23c8-4213-b040-84c06af71aeb)
+
+
 
 - é uma licença de software livre aprovada pela FSF e escrita como um meio-termo entre a GPL e licenças mais permissivas, tais como a licença BSD e a licença MIT.
 A principal diferença entre a GPL e a LGPL é que esta permite também a associação com programas que não estejam sob as licenças GPL ou LGPL, incluindo Software proprietário.
@@ -50,7 +66,10 @@ A LGPL acrescenta restrições ao código fonte desenvolvido, mas não exige que
 
 
 
-### Apache License 2.0:
+## Apache License 2.0:
+
+![image](https://github.com/kainnabw/uc10_Documentacao/assets/135454271/bcf320db-8be8-4acc-9f71-e678c4d41419)
+
 
 - A Licença Apache 2.0 é permissiva, permitindo uso, modificação e distribuição do software sob certas condições. Ela se destaca por abordar questões de patentes, regras para uso de marcas registradas e exigências específicas para indicar modificações. É compatível com outras licenças de código aberto e oferece uma abordagem mais detalhada em comparação com licenças como a MIT.
 
@@ -61,19 +80,39 @@ A LGPL acrescenta restrições ao código fonte desenvolvido, mas não exige que
 ---
 
 
-### Mozilla Public License 2.0 (MPL 2.0)
+## Mozilla Public License 2.0 (MPL 2.0)
+
+![image](https://github.com/kainnabw/uc10_Documentacao/assets/135454271/c3703301-94c2-4e03-9bdf-5495a592b07f)
 
 - A licença Mozilla é parecida com o copyleft, mas não é tão rigorosa com a distribuição de trabalhos feitos a partir dela. Basicamente, se você copiar ou modificar código fonte licenciado pela Mozilla, precisa manter essa licença para o que foi feito. Mas, ao mesmo tempo, é permitido juntar esse código com programas que são proprietários. Isso significa que dá para criar uma versão fechada de um código que estava sob a licença Mozilla. Por exemplo, o Netscape 6 e 7 são versões fechadas das mesmas versões da suíte Mozilla.
 
 
-![image](https://github.com/kainnabw/uc10_Documentacao/assets/135454271/c3703301-94c2-4e03-9bdf-5495a592b07f)
+
 
 
 ---
 
-### BSD License
+## BSD License
 
-- A Licença BSD é uma licença de software permissiva, similar à MIT, que permite o uso, modificação e redistribuição do software, sem muitas restrições. Ela pode incluir uma cláusula de publicidade em algumas versões, exigindo a menção dos direitos autorais em materiais de divulgação. É altamente compatível com outras licenças de código aberto e isenta os autores de responsabilidade por possíveis problemas decorrentes do uso do software. A principal diferença entre as diferentes licenças BSD é o número de cláusulas incluídas:
+![image](https://github.com/kainnabw/uc10_Documentacao/assets/135454271/154e5bf0-dd42-46c0-8062-76c513103a29)
+
+
+
+
+- A Licença BSD é uma licença de software permissiva, similar à MIT, que permite o uso, modificação e redistribuição do software, sem muitas restrições. Ela pode incluir uma cláusula de publicidade em algumas versões, exigindo a menção dos direitos autorais em materiais de divulgação. É altamente compatível com outras licenças de código aberto e isenta os autores de responsabilidade por possíveis problemas decorrentes do uso do software.
+
+>[!IMPORTANT]
+> A principal diferença entre as diferentes licenças BSD é o número de cláusulas incluídas:
+
+  - BSD 2-Clause “Simplified” License: É uma licença muito permissiva que só pede para dar créditos ao autor original e dizer que o autor não é responsável por possíveis problemas.
+  
+  - BSD 3-Clause “New” or “Revised” License : Além das duas cláusulas anteriores, inclui uma que proíbe usar o nome do autor para promover trabalhos derivados sem permissão." 
+
+
+
+
+
+---
 
   
 
