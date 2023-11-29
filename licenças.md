@@ -1,5 +1,16 @@
 # Licenças 
 
+---
+## o que são as licenças e qual a sua importancia no github ?
+
+As licenças no GitHub definem as regras para usar e compartilhar código. Elas garantem clareza sobre direitos autorais, encorajam a colaboração e padronizam como o código pode ser usado, protegendo tanto os autores quanto os usuários. São essenciais para projetos de código aberto, estabelecendo diretrizes legais e promovendo um ambiente de colaboração seguro.
+
+
+
+
+
+
+---
 
 
 
