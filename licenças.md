@@ -111,8 +111,15 @@ A LGPL acrescenta restrições ao código fonte desenvolvido, mas não exige que
 
 
 
-
 ---
 
   
+
+## Creative Commons Licenses
+
+![image](https://github.com/kainnabw/uc10_Documentacao/assets/135454271/e474f5af-4df0-4b9f-9f86-b9af599c6bed)
+
+- As licenças Creative Commons no GitHub são usadas para compartilhar uma variedade de criações, não apenas software. Elas oferecem flexibilidade, permitindo que os criadores determinem como sua obra pode ser usada, modificada e compartilhada por outros, com diferentes níveis de restrição e liberdade. Essas licenças se aplicam a textos, imagens, músicas e outros conteúdos além de código, e podem incluir requisitos como atribuição ao criador original e compartilhamento sob a mesma licença.
+
+  ---
 
